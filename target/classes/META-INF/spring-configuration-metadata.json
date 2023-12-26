@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "insurancemonster",
+      "type": "com.snipe.insurancemonster.auth.config.IMONProperties",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "insurancemonster.access-token-key",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    },
+    {
+      "name": "insurancemonster.admin-url",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    },
+    {
+      "name": "insurancemonster.auth-url",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    },
+    {
+      "name": "insurancemonster.client-app-url",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    },
+    {
+      "name": "insurancemonster.header-api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    },
+    {
+      "name": "insurancemonster.imagepath",
+      "type": "java.lang.String",
+      "sourceType": "com.snipe.insurancemonster.auth.config.IMONProperties"
+    }
+  ],
+  "hints": []
+}
